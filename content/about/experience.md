@@ -22,28 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Simulation & AI Systems Engineer
+    company: Betaflix
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Louisiana
+    date_start: '2024-06-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Research, Design, and Develop Realistic and Performant Welding Simulation
+        * Develop Virtual Reality functionalities
+        * Development in Unreal Engine
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: CERN ATLAS Collaborator
+    company: CERN
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: Switzerland
+    date_start: '2019-08-01'
+    date_end: ''
+    description: R&D for Data Quality Assesmment using Anomaly Detection algorithms, R&D for ONNX system for integrating ML models by ATLAS scientists for Data Quality Assessment, contributing to RAG based ChAtlas chatbot in a collaborative effort to establish an AI Assistant for ATLAS.
+
+  - title: AI Consultant & Contractor
+    company: Self
+    company_url: ''
+    company_logo: 
+    location: Louisiana
+    date_start: '2023-06-01'
+    date_end: '2024-06-01'
+    description: Assisted in the design and development of custom neural network based recommendation engines for mission critical systems.
 
 design:
   columns: '1'
