@@ -3,7 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Hugo Portfolio Theme # Website name
+title: Cary Randazzo - Portfolio # Website name
+description: 'The personal portfolio of Cary Randazzo — focused on high-performance simulation, AI systems, and quantum computing.'
 baseURL: 'https://example.com/' # Website URL
 
 ############################

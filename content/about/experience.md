@@ -25,7 +25,7 @@ experience:
   - title: Simulation & AI Systems Engineer
     company: Betaflix
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-betaflix
     location: Louisiana
     date_start: '2024-06-01'
     date_end: ''
