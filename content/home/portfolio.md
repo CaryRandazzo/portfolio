@@ -28,12 +28,24 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
+    - name: Heat Transfer Simulation
+      tag: HTS
+    - name: Atmopheric Dynamics
+      tag: ATMOS
+    - name: Electromagnetic Simulation
+      tag: ESIM
+    - name: Fluid Dynamics
+      tag: FD
+    - name: Sports Science
+      tag: SSCI
+    - name: Unreal Engine
+      tag: UE
+    - name: Virtual Reality
+      tag: VR
     - name: NLP
       tag: NLP
+
+
 
 design:
   columns: '1'

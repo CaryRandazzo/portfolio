@@ -1,8 +1,0 @@
-1. clear the repo or start a new one fresh
-2. run
-```bash
-npx degit --force hugoblox/theme-portfolio .
-```
-3. make the .github/workflows/hugo.yml file and put its contents in
-4. commit and push for the action to execute
-5. profit at the github.io/portfolio location

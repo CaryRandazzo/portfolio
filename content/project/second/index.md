@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
+title: Second Project
 summary: Write about your project here...
 tags:
   - NLP
 date: 2022-01-01
-external_link: http://github.com
+external_link: http://github.com/CaryRandazzo
 ---
