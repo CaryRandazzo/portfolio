@@ -10,6 +10,8 @@ baseURL: 'https://example.com/' # Website URL
 ## PAGE OPTIONS
 ############################
 
+googleAnalytics: ''
+
 cascade:
   # Blog post options
   - _target:
