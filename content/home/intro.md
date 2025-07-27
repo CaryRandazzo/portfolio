@@ -21,4 +21,4 @@ author: admin
 👋 Hi! I'm **Cary**, a Simulation and AI Systems Engineer
 {style="font-size: 1.2rem; background: #0000BB; background: linear-gradient(to right, #0000BB 0%, #00A7BB 30%, #00B9CC 60%, #00B9FF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Check out my [resumé](caryrandazzo.github.io/portfolio/about/) and portfolio in the link above 😎
+Check out my [resumé](/about/) and portfolio in the link above 😎
