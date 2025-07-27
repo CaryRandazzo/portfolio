@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Louisiana
     date_start: '2022-12-01'
-    date_end: '2026'
+    date_end: '2026-01-01'
     description: |2-
         * Dissertation and Qual Exams in Progress
         * Coursework Completed
@@ -39,7 +39,7 @@ experience:
     company_logo: 
     location: Louisiana
     date_start: '2018-08-01'
-    date_end: '2022-11-31'
+    date_end: '2022-11-01'
     description: My Masters Thesis was on Machine Learning and Software Solutions for Data Quality Assessment in CERN's ATLAS Experiment
 
 design:
