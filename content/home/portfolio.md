@@ -44,6 +44,10 @@ content:
       tag: VR
     - name: NLP
       tag: NLP
+    - name: Anomaly Detection
+      tag: AD
+    - name: Other SW Engineering
+      tag: SWE
 
 
 
