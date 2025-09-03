@@ -39,7 +39,7 @@ experience:
   - title: CERN ATLAS Collaborator
     company: CERN
     company_url: ''
-    company_logo: 
+    company_logo: org-cern
     location: Switzerland
     date_start: '2019-08-01'
     date_end: ''
