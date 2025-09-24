@@ -20,14 +20,14 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include physical system simulation and performance optimization including using AI, Simulation and Development of tools for simplifying quantum computing, Simulation of Heat Transfer and Electromagnetics including Signal Processing, Simulation of Atmospheric Dynamics, and human performance optimization utilizing software, AI, and Virtual Reality technology.
 
-interests:
-- Applications related to Virtual Reality
-- Simulation of Fluid Dynamics systems including Atmospheric Dynamics, 
-- Simulation of thermo-mechanical and electromagnetic systems
-- Simulation of and processing of Signals
-- Applications related to Quantum Computing
-- Applications related to Artificial Intelligence
-- Human Performance Optimization
+#interests:
+#- Applications related to Virtual Reality
+#- Simulation of Fluid Dynamics systems including Atmospheric Dynamics, 
+#- Simulation of thermo-mechanical and electromagnetic systems
+#- Simulation of and processing of Signals
+#- Applications related to Quantum Computing
+#- Applications related to Artificial Intelligence
+#- Human Performance Optimization
 
 #education:
 #  degrees:
@@ -79,6 +79,6 @@ integration tooling. Unreal Engine specialist adept at working in cross-function
 internal and external stakeholders to facilitate VR development. Technical problem solver leveraging skills in
 both research-grade systems and performance-critical deployment to meet business objectives.
 
-Publications and books include those on machine learning and data quality solutions for CERN's ATLAS Experiment and the RAG based ChAtlas: An AI Asistant for the ATLAS Collaboration, and also a productivity book relate to the formation and maintenance of habits according analyzed publications in the field.
+# Publications and books include those on machine learning and data quality solutions for CERN's ATLAS Experiment and the RAG based ChAtlas: An AI Asistant for the ATLAS Collaboration, and also a productivity book relate to the formation and maintenance of habits according analyzed publications in the field.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
