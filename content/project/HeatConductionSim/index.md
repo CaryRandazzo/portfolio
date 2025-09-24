@@ -5,5 +5,5 @@ tags:
   - HTS
   - UE
 date: 2025-07-01
-external_link: http://github.com/CaryRandazzo/R3HCSblog
+external_link: https://caryrandazzo.github.io/R3HCSblog
 ---
