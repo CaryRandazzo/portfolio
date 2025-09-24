@@ -69,11 +69,21 @@ social:
 #email: ""
 ---
 
-Cary Randazzo is a Simulation Engineer, AI Systems Engineer, PhD Student, CERN ATLAS Collaborator and Contributor where he is a qualified author, and currently has a Masters in Applied Physics and Physics. 
+Cary Randazzo is a Simulation Engineer, AI Systems Engineer, PhD Student, CERN ATLAS Collaborator and Developer where he is a qualified author, and currently has a Masters in Applied Physics and Physics. 
 
-His research interests include Virtual Reality, Quantum Computing, Computer Science and Artificial Intelligence, Human Optimization, Nuclear Fusion, Fluid Dynamics, Materials Science, and especially Computational Physics and Simulation. 
+Has extensive experience in creating real-time FEM-
+based simulations for thermal and mechanical systems, AI-driven quality pipelines, and machine learning (ML)
+integration tooling. Unreal Engine specialist adept at working in cross-functional team environments comprising
+internal and external stakeholders to facilitate VR development. Technical problem solver leveraging skills in
+both research-grade systems and performance-critical deployment to meet business objectives.
 
-He also has several publications and books that include machine learning and data quality solutions for CERN's ATLAS Experiment and the RAG based ChAtlas: An AI Asistant for the ATLAS Collaboration, and also a productivity book relate to the formation and maintenance of habits according analyzed publications in the field.
+Publications and books include those on machine learning and data quality solutions for CERN's ATLAS Experiment and the RAG based ChAtlas: An AI Asistant for the ATLAS Collaboration, and also a productivity book relate to the formation and maintenance of habits according analyzed publications in the field.
+
+Research interests include Virtual Reality, Quantum Computing, Computer Science and Artificial Intelligence, Human Optimization, Nuclear Fusion, Fluid Dynamics, Materials Science, and especially Computational Physics and Simulation. 
+
+
+
+
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
