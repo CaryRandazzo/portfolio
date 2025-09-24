@@ -21,23 +21,25 @@ status:
 bio: My research interests include physical system simulation and performance optimization including using AI, Simulation and Development of tools for simplifying quantum computing, Simulation of Heat Transfer and Electromagnetics including Signal Processing, Simulation of Atmospheric Dynamics, and human performance optimization utilizing software, AI, and Virtual Reality technology.
 
 interests:
-- Artificial Intelligence
-- Simulation of atmospheric dynamics
-- Simulation of heat transfer dynamics
-- Simulation of physical deformation
-- Simulation and Development of tools for simplifying quantum computing
+- Applications related to Virtual Reality
+- Simulation of Fluid Dynamics systems including Atmospheric Dynamics, 
+- Simulation of thermo-mechanical and electromagnetic systems
+- Simulation of and processing of Signals
+- Applications related to Quantum Computing
+- Applications related to Artificial Intelligence
+- Human Performance Optimization
 
-education:
-  Degrees:
-  - course: PhD in Computational Analysis & Modeling
-    institution: Louisiana Tech University
-    year: 2026
-  - course: Masters of Applied Physics
-    institution: Louisiana Tech University
-    year: 2022
-  - course: BSc in Physics
-    institution: University of New Orleans
-    year: 2014
+#education:
+#  degrees:
+#  - course: PhD in Computational Analysis & Modeling
+#    institution: Louisiana Tech University
+#    year: 2026
+#  - course: Masters of Applied Physics
+#    institution: Louisiana Tech University
+#    year: 2022
+#  - course: BSc in Physics
+#    institution: University of New Orleans
+#    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -78,12 +80,5 @@ internal and external stakeholders to facilitate VR development. Technical probl
 both research-grade systems and performance-critical deployment to meet business objectives.
 
 Publications and books include those on machine learning and data quality solutions for CERN's ATLAS Experiment and the RAG based ChAtlas: An AI Asistant for the ATLAS Collaboration, and also a productivity book relate to the formation and maintenance of habits according analyzed publications in the field.
-
-Research interests include Virtual Reality, Quantum Computing, Computer Science and Artificial Intelligence, Human Optimization, Nuclear Fusion, Fluid Dynamics, Materials Science, and especially Computational Physics and Simulation. 
-
-
-
-
-
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
